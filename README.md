@@ -78,7 +78,7 @@ Final Thread-Level Dataset
 
 ---
 
-## 📊 Final Output
+## Final Output
 
 **File:** `final_email_thread_dataset.csv`
 
@@ -151,6 +151,6 @@ final_email_thread_dataset.csv
 
 ---
 
-## 📄 License
+## License
 
 This project is for academic and learning purposes.
